@@ -12,3 +12,5 @@ https://nealmm.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Matt Neal
+
+### ©️2019 Run Buddy, Inc 
